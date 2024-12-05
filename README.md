@@ -11,10 +11,10 @@ The essentials of model deployment, on-premise and cloud-based strategies using 
 - Webservices communicate with user requests via API
 - API defines set of rules for applications to communicate with each other
 
-![]()
+![](img/2.png)
 
 ### URL anatomy
-![]()
+![](img/3.png)
 
 
 ### HTTP methods
@@ -23,7 +23,7 @@ The essentials of model deployment, on-premise and cloud-based strategies using 
 - DELETE:
 - PUT:
 
-![]()
+![](img/4.png)
 
 
 ### Flask
@@ -31,11 +31,11 @@ The essentials of model deployment, on-premise and cloud-based strategies using 
 - Lightweight, flexible and easy to user
 - Large community, good for documentation
 
-![]()
+![](img/5.png)
 
 
 ### API testing
 - Test APIs Postman
 - User friendly UI
 
-![]()
+![](img/6.png)
