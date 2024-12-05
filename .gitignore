@@ -1,3 +1,6 @@
+# additonal
+on_premise/model_iris.pt
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
